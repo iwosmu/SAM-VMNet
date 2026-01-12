@@ -43,7 +43,7 @@ Download the following files from Google Drive and place them in the `./pre_trai
 
 ## 2. Prepare the datasets
 
-Download the ARCADE from [zenodo](https://zenodo.org/records/12345678).
+Download the ARCADE from [zenodo](https://zenodo.org/records/10390295).
 
 After downloading the datasets, you are supposed to put them into `./data/vessel/` and the file format reference is as follows.
 
